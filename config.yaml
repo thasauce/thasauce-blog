@@ -1,0 +1,5 @@
+baseURL: http://thasauce.net
+disablePathToLower: true
+languageCode: en-us
+title: ThaSauce Blog
+theme: beautifulhugo

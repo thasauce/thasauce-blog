@@ -1,0 +1,20 @@
+---
+author: Ramaniscence
+categories:
+- ThaSauce
+date: 2006-05-04T17:58:16Z
+forum:
+- "12"
+guid: "309"
+id: 1223
+title: ThaSauce turns 1
+topic:
+- "2854"
+url: /2006/05/04/thasauce-turns-1/
+---
+
+So here we are&#8230;1 year later. One year from today we were launching ThaSauce on a sub-domain on Fusion&#8217;s God awful hosting, with bare & default PHP-Nuke. I really don&#8217;t blame anyone for not taking us seriously back then, I mean&#8230;looking back on it, if it wasn&#8217;t me doing it, I&#8217;m not even sure I&#8217;d take it entirely seriously, but I&#8217;d damn well support it. But that was a year ago, & within that year we&#8217;ve made a LOT of changes. Almost daily changes. Some of them big, some of them small, but all of them for the better. We&#8217;ve since re-themed the site countless times, improved navigation, gotten a better integrated forums, launched ThaWiki & ReMix:ThaSauce (both of which are moving along phenomenally). We&#8217;ve improved the news submission process, added the calendar, we removed the separate feeds and are now re-adding them in the form of the, new and very exciting, Multi-headlines feed, & countless other things that I can&#8217;t even BEGIN to remember. With every improvement we make we get closer and closer to my dream of making ThaSauce a true community information center for the community. 
+  
+However, there are a few things that we can still improve on, and that I want to focus on through the rest of our 2nd year. Most importantly I think would be more coverage of the C64 community. A lot of people who visit OCReMix & VGMix don&#8217;t realize how big the C64 community really is. I want to really try harder to help people discover that. In addition to the C64 community, I think we really need more actual content. By that I mean we need to try harder to find people dedicated to giving us editorials about various things throughout the community, tutorials on various software or other things, & reviews on games, & game soundtracks, and just things that&#8217;re generally interesting to members of the community. We ARE currently working on a system to make the whole process of submitting that kind of thing a lot easier. So keep an eye out for that one.
+
+Lastly I just want to thank everyone again for all their help & support. Larry, for all his work on ThaWiki, and all those news items that I probably wouldn&rsquo;t have ever found in, 1,000 years, by myself. Dhsu for all his Doujin spotlights which are probably one the best examples of news I wanted to see on the site that I could possibly thing of. CHz & Eon for all their work with everything &#8220;behind the scenes&#8221; (dun dun dunnn). Pixie, Rayza, Aurora, zircon, & all the rest of the ever-changing VGDJ staff, for their continued support (even if pixie can&rsquo;t submit her own news like Rayza did <3). Our newest admin, D-Lux for getting a ton of stuff down in the very short time that he's been with us. Ade for continually yelling at me about things like the integrated forums & navigation problems (Some of the best improvements we've made were because you would not let that stuff go =P). Fusion for...iduno...getting the whole thing started? And I guess for like...maybe doing SOME STUFF, sometimes, when no one else can figure it out. HUGE thanks to Suzu & especially Xerol for all the fricken diving into the cesspool of crap that is PHP-Nukes code and molding it into a system that&rsquo;s actually useable and almost even convenient! AND lastly, but certainly not leastly, all the other people who've visited the site, registered on the site, fill out a few wiki pages, or submitted some news, or a calendar event, or a song to R:TS, or posted on the forums, or even just supported as AT ALL. A lot of people still don't take us seriously. A lot of people flat out won't support us at all, but that's OK. It may take another year or 5, but we're going to show everyone that we're serious and, with the input and support of the rest of the community, are ready to take on any challenge put forth to us. Awesome year people. F&#8217;realz! Got nothin&#8217; but love fa y&#8217;all 😉
