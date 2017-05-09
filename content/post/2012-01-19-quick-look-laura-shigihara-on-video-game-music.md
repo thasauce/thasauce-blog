@@ -34,6 +34,6 @@ url: /2012/01/19/quick-look-laura-shigihara-on-video-game-music/
 
 Coupled with the fact that Laura Shigihara&#8217;s voice is as endearing as a dozen fluffy kittens,Â this video is quite inspirational for aspiring professional VGM composers everywhere.
 
-_The â€˜Quick Lookâ€™ series at ThaSauce covers quick videos and Â featured songs to introduce emerging artists and musical twists within the VGM scene. Have you heard or seen any interesting VGM videos on YouTube lately? Shoot me an e-mail at ade@thasauce.net._
+_The â€˜Quick Look' series at ThaSauce covers quick videos and Â featured songs to introduce emerging artists and musical twists within the VGM scene. Have you heard or seen any interesting VGM videos on YouTube lately? Shoot me an e-mail at ade@thasauce.net._
 
 &nbsp;

@@ -34,8 +34,8 @@ url: /2011/08/06/ign-releases-metroid-25th-anniversary-tribute-medley-video/
 
 &nbsp;
 
-So youâ€™re probably wondering what could possibly transpire in less than two days to cause us to post [not one](http://thasauce.net/2011/08/06/utterly-insane-preview-for-shnabubulas-upcoming-album-game-genie/), but TWO [Shnabubula-related](http://remix.thasauce.net/mixer/shnabubula/) articles within a twenty-four hour time frame. Well normally weâ€™d be against double posting, but this time we really couldnâ€™t help ourselves.
+So you're probably wondering what could possibly transpire in less than two days to cause us to post [not one](http://thasauce.net/2011/08/06/utterly-insane-preview-for-shnabubulas-upcoming-album-game-genie/), but TWO [Shnabubula-related](http://remix.thasauce.net/mixer/shnabubula/) articles within a twenty-four hour time frame. Well normally we'd be against double posting, but this time we really couldn't help ourselves.
 
-IGN has just released a musical tribute video in honor of Metroidâ€™s twenty-fifth anniversary with none other than the humble [Sam Ascher-Weiss](http://www.youtube.com/user/Shnabubula) and [Gabe Terracciano](http://www.youtube.com/user/viobass15), another wonderful YouTube musician who helps to (rather ingeniously) tear up almost all _Metroid_ soundtracks in the span of a ten-minute long video. Two brilliant melodists equals double the awesome, donâ€™t you agree?
+IGN has just released a musical tribute video in honor of Metroid's twenty-fifth anniversary with none other than the humble [Sam Ascher-Weiss](http://www.youtube.com/user/Shnabubula) and [Gabe Terracciano](http://www.youtube.com/user/viobass15), another wonderful YouTube musician who helps to (rather ingeniously) tear up almost all _Metroid_ soundtracks in the span of a ten-minute long video. Two brilliant melodists equals double the awesome, don't you agree?
 
 Check out Shnabubula&#8217;s mind-boggling collaboration with Mr. Terracciano above, or [right here](http://www.ign.com/videos/2011/08/05/metroid-25th-anniversary-tribute-medley) for some wholesome _Metroid_ goodness.

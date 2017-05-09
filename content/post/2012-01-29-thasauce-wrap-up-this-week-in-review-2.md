@@ -46,27 +46,27 @@ _At the end of the week, ThaSauce Wrap-Up feature posts bite-sized news recaps j
 </li>
 
 <li style="text-align: left;">
-  Â <a href="http://thasauce.net/2012/01/24/randoms-black-materia-remixes-scheduled-for-release-on-jan-31st/">Random&#8217;s <em>Black Materia: Remixes </em>Scheduled for Release on Jan 31st</a>:Â Featuring additional guests, rearranged songs, and new exclusive content, Randomâ€™sÂ <em>Black Materia: Remixes</em>Â is scheduled to be released on January 31st.
+  Â <a href="http://thasauce.net/2012/01/24/randoms-black-materia-remixes-scheduled-for-release-on-jan-31st/">Random&#8217;s <em>Black Materia: Remixes </em>Scheduled for Release on Jan 31st</a>:Â Featuring additional guests, rearranged songs, and new exclusive content, Random'sÂ <em>Black Materia: Remixes</em>Â is scheduled to be released on January 31st.
 </li>
 
 <li style="text-align: left;">
-  <a href="http://thasauce.net/2012/01/25/magfest-recap-overclocked-remix-live-magfest-x/">MAGFest Recap: OverClocked ReMix Live @ MAGFest X</a>:Â Even in the midst of exciting news such as potential website redesign and official project updates at the OverClocked ReMix Panel, OCR Live comes together to playÂ a brand new arrangement of Donkey Kong Countryâ€™s â€œAquatic Ambianceâ€ with live instrumentals.
+  <a href="http://thasauce.net/2012/01/25/magfest-recap-overclocked-remix-live-magfest-x/">MAGFest Recap: OverClocked ReMix Live @ MAGFest X</a>:Â Even in the midst of exciting news such as potential website redesign and official project updates at the OverClocked ReMix Panel, OCR Live comes together to playÂ a brand new arrangement of Donkey Kong Country's â€œAquatic Ambianceâ€ with live instrumentals.
 </li>
 
 <li style="text-align: left;">
-  <a href="http://thasauce.net/2012/01/25/thasauces-one-hour-compos-every-thursday-9-pm-est/">ThaSauce&#8217;s One Hour Compos Every Thursday @ 9 PM</a>: From first-time fledglings to veteran mixers, ThaSauceâ€™s own One Hour Compos has something for everyone.
+  <a href="http://thasauce.net/2012/01/25/thasauces-one-hour-compos-every-thursday-9-pm-est/">ThaSauce&#8217;s One Hour Compos Every Thursday @ 9 PM</a>: From first-time fledglings to veteran mixers, ThaSauce's own One Hour Compos has something for everyone.
 </li>
 
 <li style="text-align: left;">
-  <a href="http://thasauce.net/2012/01/25/overclocked-remixs-unsung-heroes-tribute-just-released/">OverClocked ReMixÂ <em>Unsung Heroes </em>Tribute Just Released</a>:Â OverClocked ReMix has just released their thirty-second official arrangement album in tribute to the unsung heroes of role-playing games throughout the years. <em>Unsung HeroesÂ </em>features many overlooked titles such asÂ <em><em><em>The 7th Saga</em>,Â <em>Ghoulsâ€™n Ghosts</em>,Â <em>The Lord of the Rings: Volume 1</em>,Â <em>Suikoden</em>, andÂ <em>Persona 3</em>.</em></em>
+  <a href="http://thasauce.net/2012/01/25/overclocked-remixs-unsung-heroes-tribute-just-released/">OverClocked ReMixÂ <em>Unsung Heroes </em>Tribute Just Released</a>:Â OverClocked ReMix has just released their thirty-second official arrangement album in tribute to the unsung heroes of role-playing games throughout the years. <em>Unsung HeroesÂ </em>features many overlooked titles such asÂ <em><em><em>The 7th Saga</em>,Â <em>Ghouls'n Ghosts</em>,Â <em>The Lord of the Rings: Volume 1</em>,Â <em>Suikoden</em>, andÂ <em>Persona 3</em>.</em></em>
 </li>
 
 <li style="text-align: left;">
-  <a href="http://thasauce.net/2012/01/27/russian-website-sells-overclocked-remix-albums-for-profit-djpretzel-urges-cease-desist/">Russian Website Sells OverClocked ReMix Albums for Profit, djpretzel Urges Cease & Desis</a><a href="http://thasauce.net/2012/01/27/russian-website-sells-overclocked-remix-albums-for-profit-djpretzel-urges-cease-desist/">t</a>:Â Earlier this week, the OverClocked ReMix community revealed that a Russian website identified as Legalsounds.com has been illegally selling various OCRemix albums, which has been shown to be a clear infringement of OverClocked ReMixâ€™s Terms of Service.
+  <a href="http://thasauce.net/2012/01/27/russian-website-sells-overclocked-remix-albums-for-profit-djpretzel-urges-cease-desist/">Russian Website Sells OverClocked ReMix Albums for Profit, djpretzel Urges Cease & Desis</a><a href="http://thasauce.net/2012/01/27/russian-website-sells-overclocked-remix-albums-for-profit-djpretzel-urges-cease-desist/">t</a>:Â Earlier this week, the OverClocked ReMix community revealed that a Russian website identified as Legalsounds.com has been illegally selling various OCRemix albums, which has been shown to be a clear infringement of OverClocked ReMix's Terms of Service.
 </li>
 
 <li style="text-align: left;">
-  <a href="http://thasauce.net/2012/01/27/super-mario-bros-crossovers-jay-pavlina-scheduled-to-appear-on-nitro-game-injection/"><em>Super Mario Bros. Crossover</em>&#8216;s Jay Pavlina Scheduled to Appear on Nitro Game Injection</a>:Â This weekâ€™s Nitro Game Injection, the ultimate VGM discussion podcast that covers original soundtracks, chiptunes, covers, and more,Â will blow your socks off: Super Mario Bros. Crossover developer Jay Pavlina will appear as a a special guest this Sunday, January 29th.
+  <a href="http://thasauce.net/2012/01/27/super-mario-bros-crossovers-jay-pavlina-scheduled-to-appear-on-nitro-game-injection/"><em>Super Mario Bros. Crossover</em>&#8216;s Jay Pavlina Scheduled to Appear on Nitro Game Injection</a>:Â This week's Nitro Game Injection, the ultimate VGM discussion podcast that covers original soundtracks, chiptunes, covers, and more,Â will blow your socks off: Super Mario Bros. Crossover developer Jay Pavlina will appear as a a special guest this Sunday, January 29th.
 </li>
 
 <li style="text-align: left;">

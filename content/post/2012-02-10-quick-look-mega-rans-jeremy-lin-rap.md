@@ -34,4 +34,4 @@ We&#8217;ve really tried straying away from posting any [more](http://newtest.th
 
 Kudos to Random for being featured on national television for such an inspirational song. If you enjoyed his rap as much as we did, [grab the song for free here](http://megaranmusic.com/track/mega-rans-jeremy-lin-rap).
 
-_The â€˜Quick Lookâ€™ seriesÂ  is your biweekly source for videos of emerging artists, rad performances, or just about anything awesome that we can get away with posting that involves the VGMÂ community. Have any cool videos to link us with? Shoot an e-mail at ade@thasauce.net. Be sure to click on the â€˜Quick Lookâ€™ category below to satiate your visual appetite here at ThaSauce._
+_The â€˜Quick Look' seriesÂ  is your biweekly source for videos of emerging artists, rad performances, or just about anything awesome that we can get away with posting that involves the VGMÂ community. Have any cool videos to link us with? Shoot an e-mail at ade@thasauce.net. Be sure to click on the â€˜Quick Look' category below to satiate your visual appetite here at ThaSauce._

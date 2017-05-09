@@ -5,7 +5,7 @@ categories:
 date: 2012-04-23T00:10:40Z
 dsq_thread_id:
 - "660349718"
-excerpt: '<i>In Tha â€˜Tube</i> focuses on ReMix: ThaSauceâ€™s very own vast database
+excerpt: '<i>In Tha â€˜Tube</i> focuses on ReMix: ThaSauce's very own vast database
   of VGM remixes as a tribute to the appreciation & reinterpretation of video game
   music. With this feature, we aim to post videos onto YouTube for easier access to
   ReMix:ThaSauce songs in a convenient preview format. This week, we highlight even

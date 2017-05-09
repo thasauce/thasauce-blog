@@ -28,7 +28,7 @@ url: /2012/01/19/proto%c2%b7dome-releases-second-album-bluescreen/
   
 UK-based jazz artist [PROTOÂ·DOME](https://www.facebook.com/PROTODOME) Â has [recently released](http://ocremix.org/forums/showthread.php?t=38193) his second album, _BLUESCREEN_:
 
-> From the creator of the hit chiptune album BLUENOISE, comes the exciting all-caps sequel, BLUESCREEN! This time around things get more varied with a touch less wah synth, a little more crazy hi-hat jamming and 100% more live sax on 1/10th of the tracks! Statistics! You know itâ€™s going to be good.
+> From the creator of the hit chiptune album BLUENOISE, comes the exciting all-caps sequel, BLUESCREEN! This time around things get more varied with a touch less wah synth, a little more crazy hi-hat jamming and 100% more live sax on 1/10th of the tracks! Statistics! You know it's going to be good.
 
 Following his wonderful debut album _[BLUENOISE](http://protodome.bandcamp.com/album/bluenoise)_, we&#8217;re pleased to announce thatÂ PROTOÂ·DOME&#8217;s latest head-bobbin&#8217; tracks are as catchy as ever. Creatively dubbed as &#8216;chiptune jazz micro-music&#8217;,Â _BLUESCREEN_ gracefully borders the line of classy overtures and bold, saxxy tunes.
 
