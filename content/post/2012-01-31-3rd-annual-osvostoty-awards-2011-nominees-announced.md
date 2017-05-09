@@ -54,7 +54,7 @@ Our friends over at [Original Sound Version](http://www.originalsoundversion.com
   </p>
   
   <p>
-    <em>Child of Eden<br /> Dark Souls<br /> Deus Ex: Human Revolution<br /> Dead Space 2<br /> El Shaddai: Ascension of the Metatron<br /> Uncharted 3: Drake's Deception</em>
+    <em>Child of Eden<br /> Dark Souls<br /> Deus Ex: Human Revolution<br /> Dead Space 2<br /> El Shaddai: Ascension of the Metatron<br /> Uncharted 3: Drakeâ€™s Deception</em>
   </p>
   
   <p>
@@ -126,7 +126,7 @@ Our friends over at [Original Sound Version](http://www.originalsoundversion.com
   </p>
   
   <p>
-    <em>IMERUAT<br /> Now is the point at which I touch eternity<br /> Oto Gift<br /> Play for Japan<br /> Songs for the Cure '11: Remedy<br /> Tree of Knowledge</em></div>
+    <em>IMERUAT<br /> Now is the point at which I touch eternity<br /> Oto Gift<br /> Play for Japan<br /> Songs for the Cure â€™11: Remedy<br /> Tree of Knowledge</em></div>
   </p>
   
   <p>

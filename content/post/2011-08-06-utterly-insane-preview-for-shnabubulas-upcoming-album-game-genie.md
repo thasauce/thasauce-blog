@@ -27,8 +27,8 @@ url: /2011/08/06/utterly-insane-preview-for-shnabubulas-upcoming-album-game-geni
 <center>
 </center>Music prodigy Sam Ascher-Weiss, more often known as 
 
-[Shnabubula](http://www.youtube.com/user/Shnabubula), has remained incredibly productive [as of late](http://ocremix.org/forums/showthread.php?t=36120). With almost 900 subscribers and over 231,000 views on YouTube, Shnabubula's reputation for piano improvisation and almost deranged time signatures cannot be denied.
+[Shnabubula](http://www.youtube.com/user/Shnabubula), has remained incredibly productive [as of late](http://ocremix.org/forums/showthread.php?t=36120). With almost 900 subscribers and over 231,000 views on YouTube, Shnabubulaâ€™s reputation for piano improvisation and almost deranged time signatures cannot be denied.
 
-Especially displaying his effortless talent with tracks like â€œPlaying Super Mario World While Taking Mushroomsâ€ and the ultimate MagFest 6 hit â€œTerra's Got Her Groove Backâ€ [here at ThaSauce](http://remix.thasauce.net/mixer/shnabubula/), we are thrilled to announce Shnabubula's forthcoming chiptune album _Game Genie._ â€œAqua Feverâ€, the latest track from the upcoming album_,_ is a breathtaking example of his natural ability to decipher key transitions with a drop of a hat.
+Especially displaying his effortless talent with tracks like â€œPlaying Super Mario World While Taking Mushroomsâ€ and the ultimate MagFest 6 hit â€œTerraâ€™s Got Her Groove Backâ€ [here at ThaSauce](http://remix.thasauce.net/mixer/shnabubula/), we are thrilled to announce Shnabubulaâ€™s forthcoming chiptune album _Game Genie._ â€œAqua Feverâ€, the latest track from the upcoming album_,_ is a breathtaking example of his natural ability to decipher key transitions with a drop of a hat.
 
-Preview Shnabubula's insane talent on â€œAqua Feverâ€ for _Game Genie_ [here](http://youtu.be/AiZsE7Ma5_s), out on [Ubiktune](http://www.ubiktune.org/) soon!
+Preview Shnabubulaâ€™s insane talent on â€œAqua Feverâ€ for _Game Genie_ [here](http://youtu.be/AiZsE7Ma5_s), out on [Ubiktune](http://www.ubiktune.org/) soon!
