@@ -5,10 +5,10 @@ categories:
 date: 2017-01-22T06:03:15Z
 dsq_thread_id:
 - "5483578870"
-excerpt: Fans of Metroid and Synhetic Orchestra, mark your calendars! Super Metroid
+excerpt: Fans of Metroid and Synthetic Orchestra, mark your calendars! Super Metroid
   Symphony is coming this March.
 fb_fan_page_message:
-- Fans of Metroid and Synhetic Orchestra, mark your calendars! Super Metroid Symphony
+- Fans of Metroid and Synthetic Orchestra, mark your calendars! Super Metroid Symphony
   is coming this March.
 guid: http://thasauce.net/?p=3088
 id: 3088
@@ -19,7 +19,7 @@ tags:
 - Blake Robinson
 - Super Metroid
 - Synthetic Orchestra
-title: <em>Super Metroid Symphony</em> Coming In March
+title: Super Metroid Symphony Coming In March
 url: /2017/01/22/super-metroid-symphony-coming-in-march/
 ---
 
