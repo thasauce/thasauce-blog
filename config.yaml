@@ -1,5 +1,7 @@
 baseURL: http://thasauce.net
 disablePathToLower: true
 languageCode: en-us
-title: ThaSauce Blog
-theme: beautifulhugo
+title: ThaSauce
+description: wat
+theme: hyde-hyde
+paginate: 100
