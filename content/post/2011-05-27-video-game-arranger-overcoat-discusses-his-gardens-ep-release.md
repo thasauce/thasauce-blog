@@ -5,16 +5,16 @@ categories:
 date: 2011-05-27T01:06:47Z
 dsq_thread_id:
 - "354827605"
-excerpt: Gardens EP is OverCoatâ€™s first commercial release, and he hopes that people
+excerpt: Gardens EP is OverCoat's first commercial release, and he hopes that people
   from the community will support his creative endeavors.
 forum:
 - "12"
 guid: http://newtest.thasauce.net/?p=2086
 id: 2086
-title: Video game arranger OverCoat discusses his â€˜Gardens EPâ€™ release
+title: Video game arranger OverCoat discusses his Gardens EP release
 topic:
 - "5619"
-url: /2011/05/27/video-game-arranger-overcoat-discusses-his-%e2%80%98gardens-ep%e2%80%99-release/
+url: /2011/05/27/video-game-arranger-overcoat-discusses-his-gardens-ep-release/
 ---
 
 by JH Sounds

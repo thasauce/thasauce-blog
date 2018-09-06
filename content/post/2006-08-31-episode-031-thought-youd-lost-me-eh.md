@@ -9,10 +9,10 @@ forum:
 - "12"
 guid: "432"
 id: 1337
-title: 'Episode 031: Thought youâ€šÃ„Ã´d lost me, eh?'
+title: 'Episode 031: Thought you'd lost me, eh?'
 topic:
 - "2740"
-url: /2006/08/31/episode-031-thought-you%e2%80%9aaod-lost-me-eh/
+url: /2006/08/31/episode-031-thought-youd-lost-me-eh/
 ---
 
 Stuff mentioned:
