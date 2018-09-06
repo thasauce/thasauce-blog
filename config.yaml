@@ -1,4 +1,4 @@
-baseURL: http://thasauce.net
+baseURL: /
 disablePathToLower: true
 languageCode: en-us
 title: ThaSauce
